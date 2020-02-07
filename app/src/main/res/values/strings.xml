@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="showing_image_from_server_side">showing image from server side.</string>
+    <string name="empty_list">no Data found</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="rajesh_yadav">Rajesh yadav</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="give_it_another_try">Give it another try</string>
+    <string name="reload">Reload</string>
+</resources>
